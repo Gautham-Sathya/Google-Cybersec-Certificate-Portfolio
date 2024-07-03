@@ -1,0 +1,1 @@
+This portfolio is formed by documents that are a collection of the work I did as a part of the Google Cybersecurity Certificate. The incident Handler Journal is a list of the later mock exercises and practice.
